@@ -1,0 +1,13 @@
+.navbar {
+    border-color: blue;
+    background-color: black
+}
+.navbar-header {
+   text-decoration-color: black;
+}
+img {
+    max-width: 100%;
+}
+@media (max-width: 700px) {
+    
+}
