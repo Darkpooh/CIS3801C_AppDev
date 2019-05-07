@@ -1,0 +1,22 @@
+.navbar {
+    border-color: blue;
+    background-color: black
+    
+}
+.navbar-header {
+   text-decoration-color: black;
+}
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.container {
+    color: rgb(0, 255, 115)
+}
+.RickandMortyLogo {
+    text-align: center;
+}
+.Episodes {
+    text-align: center;
+}
